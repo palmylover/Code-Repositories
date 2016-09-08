@@ -1,2 +1,2 @@
 # Code-Repositories
-mark some useful codes 
+This is a repository for recording some useful code snap
